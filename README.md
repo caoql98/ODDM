@@ -1,5 +1,5 @@
-# IODA
-Inter- and Intra-Orthogonality in Data-Driven AI: Foundational Principle Across Model and Data
+# ODDM
+Orthogonality for Deep Learning across Data and Models
 
 ### Intra-Data
 
