@@ -1,5 +1,5 @@
 # ODDM
-Orthogonality for Deep Learning across Data and Models
+Orthogonality for Deep Learning across Data and Models including:
 
 ### Intra-Data Orthogonality
 
