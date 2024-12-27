@@ -1,21 +1,15 @@
 # ODDM
 Orthogonality for Deep Learning across Data and Models
 
-### Intra-Data
+### Intra-Data Orthogonality
 
- [**Method**](https://github.com/caoql98/VIFS)    
- 
-### Inter-Data
+### Inter-Data Orthogonality
 
- [**Method**](https://github.com/SHIBOYA/QNet)        
+### Intra-Model Orthogonality
 
-### Intra-Model
+### Inter-Model Orthogonality
 
- [**Method**](https://arxiv.org/pdf/2311.17112)      
 
-### Inter-Model
-
- [**Method**](https://github.com/caoql98/DPLQ)        
 
 
 
