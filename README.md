@@ -13,7 +13,7 @@ By incorporating orthogonality within the architecture of the neural network, we
 ### Inter-Model Orthogonality
 To further validate the effectiveness of the orthogonality principle in the context of inter-model orthogonality, we examine the transferability of the natural-vision-based CLIP model across diverse domains, focusing on remote sensing and medical imaging with domain-specific models. By establishing inter-model orthogonal relationships between these distinct domains, we observe significant performance improvements, demonstrating the utility of orthogonality in enhancing cross-domain adaptability and efficacy.
 
-The experimental codes are available in the corresponding file folders.
+#### The experimental codes are available in the corresponding file folders.
 
 
 
