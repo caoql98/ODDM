@@ -1,4 +1,22 @@
 # ODDM
+
+
+
+
+
+Motivated pervasive role of orthogonality in natural data and models, we propose orthogonality as a cornerstone for principled neural network development:
+<p align="left">
+<img src="img/img0.png" alt="Motivation" width="700px">
+</p>
+(a) Orthogonality in natural data like fluid dynamics and electromagnetic induction. (b) Our brain utilizes orthogonal subspace to decide different options~\cite{johnston2024semi} with better effectiveness. (c) The orthogonality in nature inspired us to incorporate it into neural networks as a foundational principle across data and models.
+
+some visualization results:
+the overall network:
+<p align="left">
+<img src="img/remote_sensing_result.png" alt="the results" width="800px">
+</p>
+
+
 Orthogonality for Deep Learning across Data and Models including:
 
 ### Intra-Data Orthogonality
