@@ -7,7 +7,7 @@ Motivated pervasive role of orthogonality in natural data and models, we propose
 (a) Orthogonality in natural data like fluid dynamics and electromagnetic induction. (b) Our brain utilizes orthogonal subspace to decide different options~\cite{johnston2024semi} with better effectiveness. (c) The orthogonality in nature inspired us to incorporate it into neural networks as a foundational principle across data and models.
 
 We thoroughly evaluate the effectiveness of orthogonality under intra-data, inter-data, intra-model, and inter-model settings:
-<p align="left">
+<p align="center">
 <img src="imgs/main1.png" alt="the results" width="800px">
 </p>
 The main concept of the proposed orthogonality principle. (a) Existing scaling-law-driven neural networks like large foundational models and multimodal models have demonstrated exceptional capabilities across a wide range of applications. (b) Orthogonality could serve as a foundational principle across data and models.
