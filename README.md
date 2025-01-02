@@ -5,6 +5,7 @@ Motivated by pervasive role of orthogonality in natural data and models, we prop
 <img src="imgs/main0.png" alt="Motivation" width="700px">
 </p>
 (a) Orthogonality in natural data like fluid dynamics and electromagnetic induction. (b) Our brain utilizes orthogonal subspace to decide different options with better effectiveness. (c) The orthogonality in nature inspired us to incorporate it into neural networks as a foundational principle across data and models.
+<br>
 
 <br>
 We thoroughly evaluate the effectiveness of orthogonality under intra-data, inter-data, intra-model, and inter-model settings:
