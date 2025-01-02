@@ -13,7 +13,7 @@ We thoroughly evaluate the effectiveness of orthogonality under intra-data, inte
 The main concept of the proposed orthogonality principle. (a) Existing scaling-law-driven neural networks like large foundational models and multimodal models have demonstrated exceptional capabilities across a wide range of applications. (b) Orthogonality could serve as a foundational principle across data and models.
 
 
-# Orthogonality for Deep Learning across Data and Models including:
+## Orthogonality for Deep Learning across Data and Models including:
 ### Intra-Data Orthogonality
 To directly investigate the effect of intra-data orthogonality, we applied the orthogonality principle to neural networks tasked with super-resolution analysis of fluid dynamics, where intrinsic orthogonality exists among spatial velocity components.
 
